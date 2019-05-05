@@ -6,7 +6,9 @@ OpenCV 2.4.9 Raspberry Pi
 <p>./opencvPy.sh</p>
 
 <h2>Pueba</h2>
-<p>Abrir <span>python</span> en la terminal, y probar la versión instalada</p>
+<p>Abrir <b>python</b> en la terminal, y probar la versión instalada</p>
+<br>
 <p>import cv2</p>
 <p>cv2.__version__</p>
-<p>El resultado deberia ser <span>'2.4.9'</span></p>
+<br>
+<p>El resultado deberia ser  <b>'2.4.9'</b></p>
